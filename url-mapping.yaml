@@ -1,0 +1,6 @@
+- path: /google
+  url: https://www.google.com
+- path: /linkedin
+  url: https://www.linkedin.com
+- path: /lprofile
+  url: https://www.linkedin.com/in/arpan-layek-155003192/
